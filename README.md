@@ -1,4 +1,5 @@
 # Data_Science_Assihnment
+Following is the link of the Assignment from the collab: https://colab.research.google.com/drive/1hMI6vGJPNbTv4Z23RvEXMGzILw6jcvX6?usp=drive_link
 ## Trading Sentiment Analysis
 
 This project analyzes the relationship between Bitcoin market sentiment and trader performance on Hyperliquid.
